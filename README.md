@@ -1,12 +1,12 @@
 # **Public Transportation in KSA**
 
-## Group 2 Members : 
-
-- Ali Al Mutairi 
+## Team Members: 
+- Nada Al Mutairi
 - Nour Al dahan
-- Nada Al Mutairi 
+- Ali Al Mutairi 
 
-## Introduction :
+
+## Introduction 
 
 Getting to\from work in rush hours in saudi arabia can be the most intolerable task anybody can face, especially in riyadh. The huge amount of cars does not only cause traffic to be at it worse, but also air,sound and even mood pollution for all of us. 
 However, our dear government have started a steady bus trips that moves in soooo many stops to easy down the traffic. Unfortunately, they are sill cooking their popularity.
@@ -17,7 +17,7 @@ Therefore, in this study our objectives:
 - Find the Cars used in Saudi Arabia by Volume and other prameters 
 - Do a comparison between KSA and NY
 
-## Dataset Overview :
+## Dataset Overview 
 1. [Population Dataset](https://www.kaggle.com/code/faisalalshahrani/ksa-population-analysis/input)
 
 * Descripe the Population estimation by nationality and gender for every region between the years 2010 to 2022
@@ -69,16 +69,28 @@ Therefore, in this study our objectives:
 	- Sunday's
 	- Annualy
 
-## Insights :
+## Insights 
 
+When we look at the ratio between population and public transportation we find that Dammam has the highest rate of public transportation use, indicating a densely populated area with a strong reliance on public transportation.
+Medina also has high usage of public transportation, indicating a significant demand for these means of transport.
 
+However, ignoring the ratios shows that Riyadh was the city with the highest public transportation use and we point out that Riyadh is also one of the highest cities with non-Saudi residents as we assume that the majority of public transportation users are non-Saudi at the moment. 
 
+We can also see how the pandemic has affected the number of rideships to fall to more than half. 
 
+As we investigated the data more we saw that the central cities (Riyadh, Makkah, Eastern Region) where non-Saudis were almost equal to the Saudis pointing that this piece of information is relevant to the tendency to use public transportation. 
 
+Going further in our study, we have analyzed 2 more datasets to see other transportation methods used in KSA focusing on cars. 
 
+Honda took first as the widely used car in Saudi, followed by Suzuki, Kia, and finally Toyota. 
+Also, studying the top 5 expensive cars we came to realize that only Toyota made it from the previous group with being the 1.86% most expensive, while Audi took the first place with a huge difference of 92.8% most expensive. 
 
+As for the volume of cars in Saudi Arabia, we decided not to include the years before 2019 for the reasons of lack of data and for it making a huge gap after announcing that women can drive -Thankfully-. 
+We focused on 3 cities only (Riyadh, Almadina, Eastern Region). the only city that had a raise on new plates issued was Riyadh starting from 46k in 2017 and reaching 65k in 2019. 
+both Almadina and Eastern Region volumes have fallen to a decrease. 
 
-
+Finally, as a small comparison, we have studied the use in NY City to see that even the huge numbers pre-2019 also faced a fall due to the pandemic in 2019-2021. 
+When put together -KSA and NY- there is hardly any comparison. 
 
 
 
